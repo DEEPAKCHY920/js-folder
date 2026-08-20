@@ -13,14 +13,13 @@ The program should also contain at least two single-line comments, one multi-lin
 variables, and console.log() statements.*/
 
 let student_name="Deepak choudhary"; // this will store the student name 
-let roll_number=04;
+let roll_number=4;
 let english_marks=85;
 let math_marks=90;
 let cs_marks=95;
 
 let total_marks=english_marks+math_marks+cs_marks;
 let average_marks=total_marks/3;
-
 console.log("student_name:",student_name);
 console.log("roll_number:",roll_number);
 console.log("english_marks:",english_marks);
