@@ -18,3 +18,9 @@ console.log(typeof num);
 let ispresent=true;
 console.log(typeof ispresent);
 console.log(ispresent)
+// undefi
+let result;
+ let selected= null;
+ console.log(result,"\n",selected,"\n",typeof result,"\n",typeof selected);
+
+ 
