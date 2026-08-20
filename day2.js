@@ -34,5 +34,10 @@
  src/=50;
  console.log(src);
  src%=50;
- 
  console.log(src);
+ // comperison operetaor
+ console.log(5=="5");
+ console.log(5===5);
+ console.log(5==="5");
+ console.log(5!="5");
+ console.log(5!==5);
