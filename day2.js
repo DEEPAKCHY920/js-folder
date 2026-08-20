@@ -7,20 +7,32 @@
 // const  num =3;
 // console.log(num)
 // string
-let student_name= "deepak";
-let course ="bca";
-console.log(student_name,"  ",course);
-console.log(typeof student_name);
-// number
-let num=85.52;
-console.log(typeof num);    
-// bollen
-let ispresent=true;
-console.log(typeof ispresent);
-console.log(ispresent)
-// undefi
-let result;
- let selected= null;
- console.log(result,"\n",selected,"\n",typeof result,"\n",typeof selected);
+// let student_name= "deepak";
+// let course ="bca";
+// console.log(student_name,"  ",course);
+// console.log(typeof student_name);
+// // number
+// let num=85.52;
+// console.log(typeof num);    
+// // bollen
+// let ispresent=true;
+// console.log(typeof ispresent);
+// console.log(ispresent)
+// // undefi
+// let result;
+//  let selected= null;
+//  console.log(result,"\n",selected,"\n",typeof result,"\n",typeof selected);
 
+//  operetaor
+ let src=20;
+ src+=50;
+ console.log(src);
+ src-=50;
+ console.log(src);
+ src*=50;
+ console.log(src);
+ src/=50;
+ console.log(src);
+ src%=50;
  
+ console.log(src);
